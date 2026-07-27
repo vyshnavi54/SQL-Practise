@@ -1,5 +1,5 @@
-//Leetcode 175. Combine Two Tables
-# Write your MySQL query statement below
+-- Leetcode 175. Combine Two Tables
+-- Write your MySQL query statement below
 select p.firstName,
        p.lastName,
        a.city,
